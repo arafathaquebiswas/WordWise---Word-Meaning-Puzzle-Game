@@ -1,0 +1,6 @@
+{
+  "name": "WordWise",
+  "description": "A modern vocabulary puzzle game featuring 4-choice questions from Oxford 3000 and GRE lists, progressive levels, streak rewards, and smooth Material 3 animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
